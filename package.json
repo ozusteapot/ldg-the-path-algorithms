@@ -1,0 +1,10 @@
+{
+    "name": "ldg-the-path-algorithms",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": "git@github.com:BvmvB/ldg-the-path-algorithms.git",
+    "devDependencies": {
+        "jest": "^27.2.4"
+    }
+}
